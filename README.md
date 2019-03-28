@@ -1,4 +1,4 @@
-https://dashboard.heroku.com/apps/medforupload
+https://medforupload.herokuapp.com/
 # Some briefing for you:
 
 ## Susunan Direktori.
