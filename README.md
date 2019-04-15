@@ -28,7 +28,7 @@ Ya, kira-kira kek gitu deh.
 ## Nama commit.
 Untuk nama commit, konteksnya gini aja biar nanti di commit dicari jadi gampang.
 ```
-<Tahun4Digit><Bulan2Digit><Tanggal2Digit>_<Jam><Menit>_<JudulGapakeSpasi>
+<Tahun4Digit><Bulan2Digit><Tanggal2Digit>_<Jam><Menit> <JudulGapakeSpasi>
 ```
 Contoh seperti nama file di atas, cuma bedanya gapake index, jam, ama extension.
 
