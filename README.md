@@ -13,10 +13,10 @@ Berbeda dengan versi Website yang nama filenya bisa berubah, kalau anda bermain 
 Jadi bisa disimulasikan seperti ini:
 ```
 root
-  | Januari_2019
+  | 2019_01
     | 20190129_0_0734_Samseng.png
     | 20190129_1_0924_Siaomay.png
-  | Februari_2019
+  | 2019_02
     | 20190214_0_1021_DavidGanteng.png
     | 20190217_0_2045_Loplep.png
     | 20190217_1_2045_Loplep.png
